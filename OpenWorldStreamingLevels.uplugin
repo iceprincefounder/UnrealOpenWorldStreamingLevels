@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OpenWorldStreamingLevels",
+	"Description": "Unreal open world streaming levels plugin.",
+	"Category": "Other",
+	"CreatedBy": "kevin.tsui",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OpenWorldStreamingLevels",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
